@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Francesco"
+  given-names: "Picetti"
+- family-names: "Deshpande"
+  given-names: "Shrinath"
+- family-names: "Leban"
+  given-names: "Jonathan"
+- family-names: "Shahtalebi"
+  given-names: "Soroosh"
+- family-names: "Patel"
+  given-names: "Jay"
+- family-names: "Jing"
+  given-names: "Peifeng"
+- family-names: "Wang"
+  given-names: "Chunpu"
+- family-names: "Metze III"
+  given-names: "Charles"
+- family-names: "Sun"
+  given-names: "Cameron"
+- family-names: "Laidlaw"
+  given-names: "Cera"
+- family-names: "Warrent"
+  given-names: "James"
+- family-names: "Huynh"
+  given-names: "Kathy"
+- family-names: "Page"
+  given-names: "River"
+- family-names: "Hogins"
+  given-names: "Jonathan"
+- family-names: "Crespi"
+  given-names: "Adam"
+- family-names: "Ganguly"
+  given-names: "Sujoy"
+- family-names: "Erfanian Ebadi"
+  given-names: "Salehe"
+  orcid: "https://orcid.org/0000-0003-2211-7026"
+title: "AnthroNet: Conditional Generation of Humans via Anthropometrics"
+version: 1.0
+date-released: 2023-03-06
+url: "https://github.com/Unity-Technologies/AnthroNet/"
+repository-code: "https://github.com/Unity-Technologies/AnthroNet/"
+journal: arXiv
+eprint: 4771091
+archivePrefix: arXiv
+primaryClass: cs.CV
+year: 2023
+license: Apache-2.0
