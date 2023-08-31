@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/posed_humans/shape_shifter.png" align="middle" width="800"/>
+  <img src="https://github.com/Unity-Technologies/AnthroNet/blob/main/images/posed_humans/shape_shifter.png" align="middle" width="800"/>
   <br>
   <sub><b>AnthroNet with Poses.</b> The figure shows posed meshes obtained by applying LBS to generated meshes on 
     conditionals computed by piece-wise linear interpolation between four sets of full anthropometric 
@@ -98,7 +98,7 @@ We present a novel human body model formulated by an extensive set of anthropoce
 
 ## Model Architecture
 <p align="center">
-  <img src="./images/model_architecture/model_architecture.png" align="middle" width="800"/>
+  <img src="https://github.com/Unity-Technologies/AnthroNet/blob/main/images/model_architecture/model_architecture.png" align="middle" width="800"/>
   <br>
   <sub><b>AnthroNet's end-to-end trainable pipeline.</b>
     We discard the Mesh Encoder in the Mesh Generator block at inference time. Then we decode the estimated mesh in the 
