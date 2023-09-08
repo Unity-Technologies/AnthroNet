@@ -38,12 +38,11 @@ authors:
   orcid: "https://orcid.org/0000-0003-2211-7026"
 title: "AnthroNet: Conditional Generation of Humans via Anthropometrics"
 version: 1.0
-date-released: 2023-03-06
+date-released: 2023-09-07
 url: "https://github.com/Unity-Technologies/AnthroNet/"
 repository-code: "https://github.com/Unity-Technologies/AnthroNet/"
 journal: arXiv
-eprint: 4771091
+eprint: 2309.03812
 archivePrefix: arXiv
 primaryClass: cs.CV
 year: 2023
-license: Apache-2.0
